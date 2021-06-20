@@ -1,4 +1,4 @@
-# HikingBuddy
+# HikingBuddy - a social media where hikers meet and share
 
 
 <p align="center">
