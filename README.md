@@ -16,9 +16,9 @@ Our goal is to connect people who love hiking and nature and want to share their
 ### Home Page, User Profile, Log In - mobile
 
   <p align="center">
-  <img src="frontend/src/assets/readme/Homepage.png"  alt="Home page view" width="150" />
-  <img src="frontend/src/assets/readme/Account.jpg"  alt="Account and followers" width="150" /> 
-  <img src="frontend/src/assets/readme/Log_in.png"  alt="Log in" width="150" />
+  <img src="frontend/src/assets/readme/Homepage.png"  alt="Home page view" width="200" />
+  <img src="frontend/src/assets/readme/Account.jpg"  alt="Account and followers" width="200" /> 
+  <img src="frontend/src/assets/readme/Log_in.png"  alt="Log in" width="200" />
     </p>
 
 ### Pop-ups to create posts and events - mobile
