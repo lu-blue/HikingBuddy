@@ -9,22 +9,22 @@ Our goal is to connect people who love hiking and nature and want to share their
 ### Events Page and Feed Page - mobile
 
 <p align="center">
-  <img src="frontend/src/assets/readme/Events.jpg"  alt="Events page view" width="100" />
-  <img src="frontend/src/assets/readme/Feed.jpg"  alt="Feed page view" width="100" /> 
+  <img src="frontend/src/assets/readme/Events.jpg"  alt="Events page view" width="200" />
+  <img src="frontend/src/assets/readme/Feed.jpg"  alt="Feed page view" width="200" /> 
   </p>
 
 ### Home Page, User Profile, Log In - mobile
 
   <p align="center">
-  <img src="frontend/src/assets/readme/Homepage.png"  alt="Home page view" width="100" />
-  <img src="frontend/src/assets/readme/Account.jpg"  alt="Account and followers" width="100" /> 
-  <img src="frontend/src/assets/readme/Log_in.png"  alt="Log in" width="100" />
+  <img src="frontend/src/assets/readme/Homepage.png"  alt="Home page view" width="150" />
+  <img src="frontend/src/assets/readme/Account.jpg"  alt="Account and followers" width="150" /> 
+  <img src="frontend/src/assets/readme/Log_in.png"  alt="Log in" width="150" />
     </p>
 
 ### Pop-ups to create posts and events - mobile
    <p align="center">
-  <img src="frontend/src/assets/readme/Create_post.jpg"  alt="Create post pop-up" width="100" />
-  <img src="frontend/src/assets/readme/Create_event.jpg"  alt="Create event pop-up" width="100" /> 
+  <img src="frontend/src/assets/readme/Create_post.jpg"  alt="Create post pop-up" width="200" />
+  <img src="frontend/src/assets/readme/Create_event.jpg"  alt="Create event pop-up" width="200" /> 
   </p>
 
 Follow this link to see the project: https://hiking-buddysda.web.app/
