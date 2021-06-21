@@ -1,13 +1,38 @@
-# HikingBuddy
+# HikingBuddy - social media where hikers meet and share
 
-
-<p align="center">
-  <img src="frontend/public/logo9.png"  alt="Sublime's custom image"/>
-</p>
+## Product vision
 
 Our goal is to connect people who love hiking and nature and want to share their tips and experiences, get to know each other and organise events. In addition to being able to talk to each other, share images and hiking trails, users will be able to create and join hiking events where they can safely enjoy together amazing moments in nature. For all those passionate about hiking outdoors and active lifestyle this will be the place to be!
 
-### Build with
+## Preview
+
+### Events Page and Feed Page - mobile
+
+<p align="center">
+  <img src="frontend/src/assets/readme/Events.jpg"  alt="Events page view" width="100" />
+  <img src="frontend/src/assets/readme/Feed.jpg"  alt="Feed page view" width="100" /> 
+  </p>
+
+### Home Page, User Profile, Log In - mobile
+
+  <p align="center">
+  <img src="frontend/src/assets/readme/Homepage.png"  alt="Home page view" width="100" />
+  <img src="frontend/src/assets/readme/Account.jpg"  alt="Account and followers" width="100" /> 
+  <img src="frontend/src/assets/readme/Log_in.png"  alt="Log in" width="100" />
+    </p>
+
+### Pop-ups to create posts and events - mobile
+   <p align="center">
+  <img src="frontend/src/assets/readme/Create_post.jpg"  alt="Create post pop-up" width="100" />
+  <img src="frontend/src/assets/readme/Create_event.jpg"  alt="Create event pop-up" width="100" /> 
+  </p>
+
+Follow this link to see the project: https://hiking-buddysda.web.app/
+
+You will need to create an account to have access to the services of the website.
+
+
+## Build with
 
 This web is based on Spring, PostgreSQL, React, React router and Axios. Check the following links for documentation and guides:
 
@@ -17,12 +42,12 @@ This web is based on Spring, PostgreSQL, React, React router and Axios. Check th
 - [React Router](https://reacttraining.com/react-router/web/guides/quick-start)
 - [Axios](https://github.com/axios/axios)
 
-### Designed with 
+## Designed with 
 
 - [semanitc-ui](https://react.semantic-ui.com/)
 - [Sketch](https://www.sketch.com/)
 
-### Dev Dependencies
+## Dev Dependencies
 
   - Prettier
   - Webpack
@@ -30,12 +55,6 @@ This web is based on Spring, PostgreSQL, React, React router and Axios. Check th
   - ESLint
   - React
   - React-DOM
-
-### Preview
-
-Follow this link to see the project: https://hiking-buddysda.web.app/
-
-You will need to create an account to have access to the services of the website.
 
 ## Setup
 Our development environment for a full-stack web application will consist of three main parts:
